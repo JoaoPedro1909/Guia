@@ -65,11 +65,11 @@ Permite registro de extração, rastreamento de transporte, geração de relató
 ---
 
 ## 5. Checklist de Implantação
-- [ ] Planejamento concluído
-- [ ] Ambiente preparado
-- [ ] Deploy executado
-- [ ] Testes de validação realizados
-- [ ] Logs revisados
+- [x ] Planejamento concluído
+- [x ] Ambiente preparado
+- [x ] Deploy executado
+- [ x] Testes de validação realizados
+- [x ] Logs revisados
 
 ---
 
